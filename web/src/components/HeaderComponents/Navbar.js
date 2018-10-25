@@ -11,15 +11,13 @@ class Navbar extends Component{
             <div className="App">
                 <div className="App-header">
                     <Header inverted as="h1">Welcome!</Header>
-                </div>
-                <Menu>
                     <div className="ui stackable four item menu center aligned hidden inverted">
                         <a className="active item">Home</a>
                         <a className="active item">Projects</a>
                         <a className="active item">Portfolio</a>
                         <a className="active item">About</a>
                     </div>
-                </Menu>
+                </div>
             </div>
         )
     }
