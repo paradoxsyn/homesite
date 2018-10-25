@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css family=Titillium+Web:300,400,400i,600,600i,700');
+
+.readable_text{
+    text-shadow: darkred 0px 0px 10px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.font_color{
+    color: lightgoldenrodyellow;
+}

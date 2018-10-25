@@ -1,0 +1,24 @@
+.footer_league_img{
+    margin-left: auto;
+    transform: scale(.30,.30);
+    margin-right: auto;
+    position: absolute;
+    right: 400px;
+    top: -90px;
+}
+
+.footer_wow_img{
+    transform: scale(.30,.30);
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 325px;
+    top: -90px;
+}
+
+.footer{
+    bottom:0;
+    position: absolute;
+    margin-left:auto;
+    margin-right: auto;
+}

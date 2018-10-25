@@ -1,0 +1,11 @@
+body{
+    background-color: #00292A;
+    background-image: url("./BodyComponents/treemoonv3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+}
